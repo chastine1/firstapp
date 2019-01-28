@@ -1,7 +1,7 @@
 # See http://help.github.com/ignore-files/ for more about ignoring files.
 
 # compiled output
-/dist
+
 /tmp
 /out-tsc
 
@@ -12,22 +12,38 @@
 chrome-profiler-events.json
 speed-measure-plugin.json
 
-# IDEs and editors
-/.idea
-.project
-.classpath
-.c9/
-*.launch
-.settings/
-*.sublime-workspace
+# IDEs a$ ng build --prod --base-href="https://GithubUserName.github.io/GithubREPO/"
+nd editors
+/.idea$ ng build --prod --base-href="https://GithubUserName.github.io/GithubREPO/"
 
-# IDE - VSCode
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
-.history/*
+.project$ ng build --prod --base-href="https://GithubUserName.github.io/GithubREPO/"
+
+.classpa$ ng build --prod --base-href="https://GithubUserName.github.io/GithubREPO/"
+th
+.c9/$ ng build --prod --base-href="https://GithubUserName.github.io/GithubREPO/"
+
+*.launch$ ng build --prod --base-href="https://GithubUserName.github.io/GithubREPO/"
+
+.setting$ ng build --prod --base-href="https://GithubUserName.github.io/GithubREPO/"
+s/
+*.sublim$ ng build --prod --base-href="https://GithubUserName.github.io/GithubREPO/"
+e-workspace
+$ ng build --prod --base-href="https://GithubUserName.github.io/GithubREPO/"
+
+# IDE - $ ng build --prod --base-href="https://GithubUserName.github.io/GithubREPO/"
+VSCode
+.vscode/$ ng build --prod --base-href="https://GithubUserName.github.io/GithubREPO/"
+*
+!.vscode$ ng build --prod --base-href="https://GithubUserName.github.io/GithubREPO/"
+/settings.json
+!.vscode$ ng build --prod --base-href="https://GithubUserName.github.io/GithubREPO/"
+/tasks.json
+!.vscode$ ng build --prod --base-href="https://GithubUserName.github.io/GithubREPO/"
+/launch.json
+!.vscode$ ng build --prod --base-href="https://GithubUserName.github.io/GithubREPO/"
+/extensions.json
+.history$ ng build --prod --base-href="https://GithubUserName.github.io/GithubREPO/"
+/*
 
 # misc
 /.sass-cache
